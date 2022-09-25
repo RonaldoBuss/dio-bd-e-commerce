@@ -1,5 +1,5 @@
 -- crição do banco de dados para o cenário de E-commerce
-drop database ecommerce; 
+-- drop database ecommerce; 
 create database if not exists ecommerce;
 use ecommerce;
 
